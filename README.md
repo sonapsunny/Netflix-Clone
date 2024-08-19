@@ -13,19 +13,19 @@ API Integration: Movie and TV show data fetched from The Movie Database (TMDb) A
 To run this project locally:
 
 1. Clone the repository:
-git clone https://github.com/sonapsunny/Netflix-Clone.git
-cd Netflix-Clone
+`git clone https://github.com/sonapsunny/Netflix-Clone.git` , 
+`cd Netflix-Clone`
 
-2. Install the dependencies:
-npm install
+3. Install the dependencies:
+`npm install`
 
-3. Replace the API key with your TMDb API key
+4. Replace the API key with your TMDb API key
 
-4. Start the development server:
-npm start
+5. Start the development server:
+`npm start`
 
-5. Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+6. Runs the app in the development mode.
+`Open [http://localhost:3000](http://localhost:3000) to view it in your browser.`
 
 
 ## Contributing
